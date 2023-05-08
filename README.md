@@ -1,6 +1,5 @@
 # sxema
-
-A new Flutter project.
+A new flutter project by me . it is useful for learing electronic scheme elemets .
 
 ## Getting Started
 
